@@ -49,7 +49,7 @@
 		<version.javadoc.plugin>3.3.1</version.javadoc.plugin>
 		<version.compiler.plugin>3.8.1</version.compiler.plugin>
 		<version.resources.plugin>3.0.0</version.resources.plugin>
-		<version.staging.plugin>1.6.8</version.staging.plugin>
+		<version.staging.plugin>1.6.11</version.staging.plugin>
 		<version.deploy.plugin>2.8.2</version.deploy.plugin>
 		<version.gpg.plugin>3.0.1</version.gpg.plugin>
 		<version.jacoco.plugin>0.8.7</version.jacoco.plugin>
